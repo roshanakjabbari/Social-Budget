@@ -1,0 +1,15 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+    background-color: #f0f2f5; 
+}
+
+/* Styling to ensure content is centered and looks good on any device */
+@media (max-width: 768px) {
+    .home-container {
+        flex-direction: column;
+    }
+}

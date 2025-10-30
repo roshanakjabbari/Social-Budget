@@ -1,0 +1,60 @@
+.approval-visibility {
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .approval-visibility h1, .approval-visibility h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .approval-visibility .table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .approval-visibility th, .approval-visibility td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .approval-visibility th {
+    background-color: #f4f4f4;
+  }
+  
+  .approval-visibility tbody tr:nth-child(odd) {
+    background-color: #fafafa;
+  }
+  
+  .approval-visibility tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .approval-visibility .btn-primary {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    color: white;
+    background-color: #007bff;
+    border-color: #007bff;
+    cursor: pointer;
+  }
+  
+  .approval-visibility .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
+  .approval-visibility .btn-primary:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+  }
+  
+  .approval-visibility p {
+    text-align: center;
+    color: #666;
+  }
+  

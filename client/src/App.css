@@ -1,0 +1,15 @@
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100%;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border-width: 1px !important;
+}

@@ -1,0 +1,50 @@
+.budget-definition {
+    width: 90%;  
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #8bebbc;
+    border-radius: 5px;
+    background-color: #c2ffef;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+  
+  .budget-definition h1, .budget-definition h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  .budget-definition p {
+    text-align: justify;
+    color: #666;
+  }
+  
+  /* Bootstrap form control enhanced styling */
+  .budget-definition .form-control {
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+  }
+  
+  .budget-definition .btn-primary {
+    width: 100%;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .budget-definition .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
+  .budget-definition .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .budget-definition {
+      padding: 10px;
+    }
+  }
+  

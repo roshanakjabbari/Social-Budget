@@ -1,0 +1,63 @@
+.voting-preference {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  .voting-preference h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .voting-preference .table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .voting-preference th, .voting-preference td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .voting-preference th {
+    background-color: #f4f4f4;
+  }
+  
+  .voting-preference .btn {
+    margin: 0 2px;
+  }
+  
+  .voting-preference .btn-success, .voting-preference .btn-outline-success {
+    color: #fff;
+    background-color: #4CAF50; 
+    border-color: #4CAF50;
+  }
+  
+  .voting-preference .btn-outline-success {
+    color: #4CAF50; 
+    background-color: transparent;
+  }
+  
+  .voting-preference .btn-outline-danger {
+    color: #F44336; 
+    background-color: transparent;
+    border-color: #F44336; 
+  }
+  
+  .voting-preference .d-flex {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .voting-preference {
+      padding: 10px;
+    }
+  }
+  
