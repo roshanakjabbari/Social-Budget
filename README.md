@@ -1,5 +1,5 @@
-# Exam #2: "Social Budget"
-## Student: s328582 JABBARI ROSHANAK
+# Project: "Social Budget"
+## Student: JABBARI ROSHANAK
 
 ## React Client Application Routes
 
